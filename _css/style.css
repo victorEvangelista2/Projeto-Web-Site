@@ -1,0 +1,66 @@
+nav#menu ul{
+    text-transform: none;
+    list-style: none;
+    position: absolute;
+    top: 50px;
+    left: 800px;
+    color: rgb(8, 7, 7);
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav#menu li{
+    display: inline-block;
+    background-color: black;
+    padding: 12px;
+}
+nav#menu h1{
+    display: none;
+}
+body{
+    background-color: rgb(1, 1, 14);
+    margin: 0px;
+
+}
+header{
+    background-color: rgb(241, 241, 241);
+    padding: 120px;
+    margin: 0px;
+    position: relative;
+    top: -10px;
+}
+
+img{
+    width: 150px;
+    top: 50;
+    border-radius: 20px;
+    background-color: transparent;
+    margin-left: -230px;
+    
+}
+nav#menu a:link{
+    text-decoration:none;
+    color: white;
+    font-family: Arial; 
+    font-weight: bold;
+}
+nav#menu a:visited{
+    color: white;
+}
+nav#menu a:hover{
+    color: rgb(122, 122, 244);
+    transition: all 0.3s ease;
+}
+h2{
+    color: black;
+    font-family: Verdana;
+    margin-left: -230px;
+}
+h3{
+    color: black;
+    margin-left: -230px;
+    font-family: Verdana;
+}
+h4{
+    color: black;
+    margin-left: -230px;
+    font-family: Verdana;
+}
