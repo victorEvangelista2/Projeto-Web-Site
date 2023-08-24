@@ -1,5 +1,5 @@
 # Construção do website de produtos utilizando HTML e CSS
-## CONSTRUÇÃO DO WEB SITE 
+## CONSTRUÇÃO DO WEBSITE 
 
 ### Foi construido um web site usando HTML e CSS, e para construí-lo se organizamos dividindo em 3 partes.
 
