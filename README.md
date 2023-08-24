@@ -1,7 +1,7 @@
 # Construção do website de produtos utilizando HTML e CSS
-# Projeto de web site de produtos usando HTML e CSS
+## CONSTRUÇÃO DO WEB SITE 
 
-## Foi construido um web site usando HTML e CSS, e para construí-lo se organizamos dividindo em 3 partes.
+### Foi construido um web site usando HTML e CSS, e para construí-lo se organizamos dividindo em 3 partes.
 
 #### 1° parte: Construção do cabeçalho onde no web site temos a opção  de navegação permitindo a visita de outras páginas relacionadas aos produtos como "Sobre", "Produto", "Ajuda", "Contato".
 
