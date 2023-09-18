@@ -18,7 +18,6 @@
  - 3° Etapa: adicionamos as imagens dos produtos e personalizamos dentro do web site usando HTML & CSS.
 
 # Funcionalidades: 💡
- - Um projeto de criação de um website de produtos é desenvolvido com o objetivo de exibir e promover produtos ou serviços de uma empresa, organização ou indivíduo na internet. 
 
  - Exibição de Produtos 🏷️
 
