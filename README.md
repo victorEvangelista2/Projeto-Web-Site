@@ -31,13 +31,13 @@
 
  - Feedback do Usuário 👥
 
-# Tecnologias Utilizadas👨‍💻
+# Tecnologias Utilizadas:👨‍💻
  - HTML 
  - CSS 
  - VS CODE 
  - GOOGLE
 
-# Fontes Consultadas 🔎
+# Fontes Consultadas:🔎
  - Nike.com
  - Adidas.com
  - Ous.com
