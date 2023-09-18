@@ -10,7 +10,7 @@
 
 # Construção: 🛠️
 
- - ``` Foi construido o web site usando as seguintes linguagens, HTML e CSS, e para construí-lo se organizamos dividindo em 3 etapas.
+``` - Foi construido o web site usando as seguintes linguagens, HTML e CSS, e para construí-lo se organizamos dividindo em 3 etapas.
 
  - 1° Etapa: Construção do cabeçalho onde no web site temos a opção de navegação permitindo a visita de outras páginas relacionadas aos produtos como "Sobre", "Produto", "Ajuda", "Contato".
 
