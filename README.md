@@ -9,9 +9,10 @@
  - O website será mais do que uma plataforma de comércio eletrônico; será uma vitrine cuidadosamente projetada para inspirar, informar e facilitar a seleção de produtos de qualidade.
 
 # Construção: 🛠️
+ ```
  - Foi construido o web site usando as seguintes linguagens, HTML e CSS, e para construí-lo se organizamos dividindo em 3 etapas.
 
- - ``` 1° Etapa: Construção do cabeçalho onde no web site temos a opção de navegação permitindo a visita de outras páginas relacionadas aos produtos como "Sobre", "Produto", "Ajuda", "Contato".
+ - 1° Etapa: Construção do cabeçalho onde no web site temos a opção de navegação permitindo a visita de outras páginas relacionadas aos produtos como "Sobre", "Produto", "Ajuda", "Contato".
 
  - 2° Etapa: Determinamos o tipo e qual produto usar e assim começamos a colocar a descrição, preço do produto e as informações necessárias para realizar uma compra.
 
