@@ -13,6 +13,8 @@
 
  - 1° Etapa: Construção do cabeçalho onde no web site temos a opção de navegação permitindo a visita de outras páginas relacionadas aos produtos como "Sobre", "Produto", "Ajuda", "Contato".
 
+<p align=center> img=Screenshot_20230918-195014-2.png </p>
+
  - 2° Etapa: Determinamos o tipo e qual produto usar e assim começamos a colocar a descrição, preço do produto e as informações necessárias para realizar uma compra.
 
  - 3° Etapa: adicionamos as imagens dos produtos e personalizamos dentro do web site usando HTML & CSS.
