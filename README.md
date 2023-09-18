@@ -30,3 +30,14 @@
  - Suporte ao Cliente 🆘
 
  - Feedback do Usuário 👥
+
+# Tecnologias Utilizadas👨‍💻
+ - HTML 
+ - CSS 
+ - VS CODE 
+ - GOOGLE
+
+# Fontes Consultadas 🔎
+ - Nike.com
+ - Adidas.com
+ - Ous.com
