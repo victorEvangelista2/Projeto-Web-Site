@@ -16,3 +16,6 @@
  - 2° Etapa: Determinamos o tipo e qual produto usar e assim começamos a colocar a descrição, preço do produto e as informações necessárias para realizar uma compra.
 
  - 3° Etapa: adicionamos as imagens dos produtos e personalizamos dentro do web site usando HTML & CSS.
+
+# Funcionalidades: 💡
+ - 
