@@ -41,5 +41,5 @@
 
 # Fontes Consultadas:🔎
  - [Nike.com](https://www.nike.com/)
- - [Adidas.com]
- - Ous.com
+ - [Adidas.com](https://www.adidas.com.br/)
+ - [Ous.com](https://www.ous.com.br/)
